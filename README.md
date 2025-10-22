@@ -26,4 +26,4 @@ I am currently a student at **Arizona State University** pursuing a degree in **
 ### My GitHub Stats
 
 [![BlueGoblin710's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueGoblin710&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueGoblin710&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
