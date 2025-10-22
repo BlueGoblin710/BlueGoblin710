@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm Rey Olvera
 
 ## 🚀 Bio
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlueGoblin710&style=flat-square&color=blue" alt="BlueGoblin710's Profile Views">
+</p>
 I am currently a student at **Arizona State University** pursuing a degree in **GIT - Internet & WebDevelopment**. I'm passionate about **creating stunning websites and graphics**. Ultimately, my dream is to own my own business, focusing on building custom **websites and graphic design services** for small businesses.
 
 ---
