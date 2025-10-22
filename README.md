@@ -1,7 +1,4 @@
 ## Hi there 👋 I'm Rey Olvera
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BlueGoblin710&style=flat-square&color=blue" alt="Profile Views">
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/rey-olvera-766385246">
@@ -14,7 +11,11 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
-## 🚀 Bio
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlueGoblin710&style=flat-square&color=blue" alt="Profile Views">
+</p>
+
+##🚀 Bio
 
 I am currently a student at **Arizona State University** pursuing a degree in **GIT - Internet & WebDevelopment**. I'm passionate about **creating stunning websites and graphics**. Ultimately, my dream is to own my own business, focusing on building custom **websites and graphic design services** for small businesses.
 
