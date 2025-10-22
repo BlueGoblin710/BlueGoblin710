@@ -2,7 +2,9 @@
 
 ### 🚀 Bio
 
-I am currently a student at **[Your School Name]** pursuing a degree in **[Your Major/Program]**. I'm passionate about [What you enjoy in coding] and I'm on track to graduate in [Month/Year]. After graduation, I hope to work as a [Your dream job/role].
+## 🚀 Bio
+
+I am currently a student at **Arizona State University** pursuing a degree in **GIT - Internet & WebDevelopment**. I'm passionate about **creating stunning websites and graphics**.. I'm on track to graduate in **May or December 2026**. After graduation, my career goals include securing a front end position role at a leading tech company like ** XAI, Nvidia, Amazon, Meta, or Google**. Ultimately, my dream is to own my own business, focusing on building custom **websites and graphic design services** for small businesses.
 
 ---
 
