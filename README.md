@@ -17,9 +17,9 @@ I am currently a student at **Arizona State University** pursuing a degree in **
 
 ### Connect with Me
 
-* [LinkedIn](Your LinkedIn URL)
+* [LinkedIn](https://linkedin.com/in/rey-olvera-766385246)
 * [CodePen](Your CodePen URL)
-* [Personal Portfolio]([https://github.com/BlueGoblin710/Rey-Olvera-Portfolio](https://bluegoblin710.github.io/Rey-Olvera-Portfolio/)
+* [Personal Portfolio](https://bluegoblin710.github.io/Rey-Olvera-Portfolio/)
 
 ---
 
