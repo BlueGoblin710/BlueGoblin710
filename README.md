@@ -6,6 +6,7 @@
   [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
 </div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BlueGoblin710&style=flat-square&color=blue" alt="BlueGoblin710's Profile Views">
 </p>
