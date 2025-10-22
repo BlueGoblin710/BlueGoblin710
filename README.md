@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Rey Olvera
 
+### 🚀 Bio
 
-**BlueGoblin710/BlueGoblin710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a student at **[Your School Name]** pursuing a degree in **[Your Major/Program]**. I'm passionate about [What you enjoy in coding] and I'm on track to graduate in [Month/Year]. After graduation, I hope to work as a [Your dream job/role].
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...**Languages:** HTML, CSS, Python, C/C++, JavaScript, C#, PHP. **Frameworks/Tools:** Bootstrap, [Add other tools/frameworks like Git, Docker, React, etc.] |
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 💻 Technical Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | HTML, CSS, Python, C/C++, JavaScript, C#, PHP |
+| **Frameworks/Tools** | Bootstrap, Git, [Add others] |
+
+---
+
+### Connect with Me
+
+* [LinkedIn](Your LinkedIn URL)
+* [CodePen](Your CodePen URL)
+* [Personal Portfolio](https://github.com/BlueGoblin710/Rey-Olvera-Portfolio)
+
+---
+
+### My GitHub Stats
+
+[![BlueGoblin710's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueGoblin710&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
