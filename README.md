@@ -41,7 +41,7 @@ I am currently a student at **Arizona State University** pursuing a degree in **
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/-Creative%20Cloud-DA1F26?style=flat&logo=adobe-creative-cloud&logoColor=white)
 ---
 
 ### Connect with Me
