@@ -1,6 +1,6 @@
 <div align="center">
 
-<p> style="font-family: 'Audiowide', sans-serif;">Hi there 👋 I'm Rey Olvera</p>
+## Hi there 👋 I'm Rey Olvera
 
 <p align="center">
   <a href="https://linkedin.com/in/rey-olvera-766385246">
