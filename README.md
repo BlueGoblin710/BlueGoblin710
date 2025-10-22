@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 style="font-family: 'Audiowide', sans-serif;">Hi there 👋 I'm Rey Olvera</h2>
+<h2 style="font-family: 'Audiowide', sans-serif;">##Hi there 👋 I'm Rey Olvera</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/rey-olvera-766385246">
