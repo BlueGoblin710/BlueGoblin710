@@ -26,14 +26,14 @@ I am currently a student at **Arizona State University** pursuing a degree in **
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | HTML, CSS, Python, C/C++, JavaScript, C#, PHP |
-| **Frameworks/Tools** | Bootstrap, Git, [Add others] |
+| **Frameworks/Tools** | Bootstrap, Git |
 
 ---
 
 ### Connect with Me
 
 * [LinkedIn](https://linkedin.com/in/rey-olvera-766385246)
-* [CodePen](Your CodePen URL)
+<!--* [CodePen](Your CodePen URL)-->
 * [Personal Portfolio](https://bluegoblin710.github.io/Rey-Olvera-Portfolio/)
 
 ---
