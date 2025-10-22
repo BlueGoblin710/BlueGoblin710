@@ -48,7 +48,6 @@ I am currently a student at **Arizona State University** pursuing a degree in **
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) 
 ![Adobe Creative Cloud](https://img.shields.io/badge/-Creative%20Cloud-DA1F26?style=flat&logo=adobe-creative-cloud&logoColor=white)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlueGoblin710&theme=dark)](https://git.io/streak-stats)
 ---
 
 ### Connect with Me
@@ -63,3 +62,5 @@ I am currently a student at **Arizona State University** pursuing a degree in **
 
 [![BlueGoblin710's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueGoblin710&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueGoblin710&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlueGoblin710&theme=dark)](https://git.io/streak-stats)
+---
