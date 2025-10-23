@@ -28,7 +28,7 @@
 
 ## 🚀 Bio 
 
-I am currently a student at **Arizona State University** pursuing a degree in **GIT - Internet & WebDevelopment**. I'm passionate about **creating stunning websites and graphics**. Ultimately, my dream is to own my own business, focusing on building custom **websites and graphic design services** for small businesses.
+ I'm passionate about **creating stunning websites and graphics**. 
 
 ---
 
