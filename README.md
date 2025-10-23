@@ -25,7 +25,7 @@ I am currently a student at **Arizona State University** pursuing a degree in **
 
 ---
 
-### 💻 Technical Skills
+### 💻 Tach Stack 💻
 
 | Category | Skills |
 | :--- | :--- |
