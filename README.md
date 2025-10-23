@@ -19,18 +19,13 @@
 
 ---
 
-## 🚀 Bio
+## 🚀 Bio 🚀
 
 I am currently a student at **Arizona State University** pursuing a degree in **GIT - Internet & WebDevelopment**. I'm passionate about **creating stunning websites and graphics**. Ultimately, my dream is to own my own business, focusing on building custom **websites and graphic design services** for small businesses.
 
 ---
 
 ### 💻 Tech Stack 💻
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | HTML, CSS, Python, C/C++, JavaScript, C#, PHP |
-| **Frameworks/Tools** | Bootstrap, Git |
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
@@ -54,12 +49,6 @@ I am currently a student at **Arizona State University** pursuing a degree in **
 
 ---
 
-### Connect with Me
-
- [LinkedIn](https://linkedin.com/in/rey-olvera-766385246)
- [Personal Portfolio](https://bluegoblin710.github.io/Rey-Olvera-Portfolio/)
-
----
 
 ### My GitHub Stats
 
