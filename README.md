@@ -63,9 +63,9 @@ I am currently a student at **Arizona State University** pursuing a degree in **
 
 ### My GitHub Stats
 
-[![BlueGoblin710's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueGoblin710&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueGoblin710&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlueGoblin710&theme=merko)](https://git.io/streak-stats)
+[![BlueGoblin710's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueGoblin710&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueGoblin710&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlueGoblin710&theme=algolia)](https://git.io/streak-stats)
 
 ---
 
