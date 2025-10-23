@@ -28,11 +28,11 @@
 
 ## 🚀Bio🚀
 
- 🌐💻I am currently a student at **Arizona State University** pursuing a degree in **GIT - Internet & WebDevelopment**. I'm passionate about **creating stunning websites and graphics**. Ultimately, my dream is to own my own business, focusing on building custom **websites and graphic design services** for small businesses.💻🌐 
+ I am currently a student at **Arizona State University** pursuing a degree in **GIT - Internet & WebDevelopment**. I'm passionate about **creating stunning websites and graphics**. Ultimately, my dream is to own my own business, focusing on building custom **websites and graphic design services** for small businesses. 
 
 ---
 
-### 💻Tech Stack💻 
+### 💻🌐Tech Stack🌐💻 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
