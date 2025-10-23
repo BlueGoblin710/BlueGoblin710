@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
   <a href="YOUR_TWITTER_URL">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
+</a>
   <a href="https://bluegoblin710.github.io/Rey-Olvera-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
 </a>
