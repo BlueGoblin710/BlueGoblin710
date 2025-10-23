@@ -56,8 +56,8 @@ I am currently a student at **Arizona State University** pursuing a degree in **
 
 ### Connect with Me
 
-* [LinkedIn](https://linkedin.com/in/rey-olvera-766385246)
-* [Personal Portfolio](https://bluegoblin710.github.io/Rey-Olvera-Portfolio/)
+ [LinkedIn](https://linkedin.com/in/rey-olvera-766385246)
+ [Personal Portfolio](https://bluegoblin710.github.io/Rey-Olvera-Portfolio/)
 
 ---
 
