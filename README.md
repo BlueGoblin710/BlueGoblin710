@@ -2,7 +2,7 @@
 
 ## Hello World!
 <p align="center">
-  <img src="(https://github.com/BlueGoblin710/BlueGoblin710/blob/main/GitHubBanner.jpg)" alt="Rey Olvera Web Development Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/BlueGoblin710/BlueGoblin710/main/GitHubBanner.jpg" alt="Rey Olvera Web Development Banner" width="100%">
 </p>
 ### Connect with Me
 <p align="center">
