@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BlueGoblin710/BlueGoblin710/main/GitHubBanner.jpg" alt="Rey Olvera Web Development Banner" width="100%">
 </p>
+---
 ### Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/rey-olvera-766385246">
