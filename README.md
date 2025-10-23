@@ -16,6 +16,9 @@
   <a href="YOUR_TWITTER_URL">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://bluegoblin710.github.io/Rey-Olvera-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
+</a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BlueGoblin710&style=flat-square&color=blue" alt="Profile Views">
